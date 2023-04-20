@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - Using the function puts to print a line
- * return : Ensures the code returns 0
+ * main: This uses the void to contain the function
+ * Return: 0
  */
 int main(void)
 {
