@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - this program writes the size of the computer 
+ * main - this program writes the size of the computer
  * Return: 0
  */
 int main(void)
@@ -10,6 +10,7 @@ int main(void)
 	long int l;
 	long long int w;
 	float f;
+
 	printf("Size of a char: %lu byte(s)\n", (unsigned long)sizeof(c));
 	printf("Size of an int: %lu byte(s)\n", (unsigned long)sizeof(i));
 	printf("Size of a long int: %lu byte(s)\n", (unsigned long)sizeof(l));
