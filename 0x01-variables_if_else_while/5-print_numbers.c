@@ -7,6 +7,7 @@
 int main(void)
 {
 	int bers;
+
 	while (bers < 10)
 	{
 		putchar(bers + '0');
